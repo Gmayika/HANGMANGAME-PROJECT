@@ -29,7 +29,7 @@ Welcome to the Hangman Game! This project is a simple implementation of the clas
 
 - `game.py`: The main script to run the Hangman game.
 - `README.md`: Documentation for the project.
-- (Add any other relevant files or directories)
+
 
  
    
